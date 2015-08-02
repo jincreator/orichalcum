@@ -3,4 +3,5 @@ name          = "orichalcum"
 version       = "0.0.0"
 authors       = ["Jinkyu Yi <jincreator@jincreator.net>"]
 description   = "..."
+readme        = "README.md"
 license       = "MPL-2.0"
